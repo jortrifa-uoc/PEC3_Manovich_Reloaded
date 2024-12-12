@@ -69,12 +69,13 @@ Por otra parte, **Sudowrite** amplía la accesibilidad a la escritura creativa. 
 
 En resumen **Sudowrite** sirve de ejemplo de cómo un elemento tradicional como la escritura se combina con elementos digitales para dar lugar a una nueva obra, partiendo de unas ideas o premisas básica, todo ello mediante una interacción entre el hombre y la máquina, para proponer, ajustar y en ultimo caso modificar el resultado y cómo la combinación de tecnologías y medios puede crear nuevas experiencias, cambiando el paradigma tradicional de escritura y abriendo caminos para explorar nuevas formas narrativas, todo ello en línea con el concepto de hibridación descrito por Manovich.
 
+---
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * [Janine heinrich](https://www.unite.ai/es/sudowrite-review/) (2024). **Revisión de Sudowrite: ¿Puede la IA escribir una novela que suene humana?**.
 * [Remusic Blog](https://remusic.ai/blog/how-to-extend-music-with-ai) (2024). **How to Extend Music with AI**.
-
 
 ---
 
