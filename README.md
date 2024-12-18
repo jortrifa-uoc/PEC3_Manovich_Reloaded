@@ -23,6 +23,9 @@ Lev Manovich, en ***El Software toma el mando*** (2013), introduce el concepto d
 
 **[Remusic](https://remusic.ai/en)** es una plataforma de IA para faciliar la composición y el aprendizaje musical. Esta herramienta permite crear música a partir de una descripción, al estilo de "quiero crear una canción instrumental donde se oiga una guitarra estilo Joe Satriani", o bien crear efectos de sonido, como por ejemplo un "un vaso de cristal rompiéndose contra el suelo".
 
+>"Con la tecnología de IA, **extender** la música con IA se ha vuelto mucho más fácil y rápido. **Remusic** te permite tomar cualquier pista y **extender** la música sin problemas, sin necesidad de conocimientos técnicos profundos ni software costoso." (Resumic, How to Extend Music with AI)
+>
+
 Las librerias de efectos musicales no son nuevas, y las herramientas para crear música tampoco. Existen herramientas para PC como Cubase, a las que se les puede incluir librerías de efectos musicales, sintetizadores, samples etc.
 
 Herramientas como **Remusic** adoptan la forma de crear música de herramientas de software como Cubase, pero transforman la forma de generar la música utilizando algoritmos digitales y herramientas de inteligencia artificial para generar música. Ya no se necesita tener cierto dominio de alúgn intrumento musical, conectar por poner un ejemplo la guitarra al PC, arrancar Cubase, usar algunas librerías o efectos y componer una canción. Hoy por hoy, con mayor o menor acierto, cualquier persona puede "componer" una canción, simplemente definiendo bien los criterios que quiere utilizar para dicha "composición", y ajustando dichos criterios hasta conseguir el resultado esperado.
@@ -48,9 +51,13 @@ Crear una composición musical de forma "instantanea" sin que sea necesario tene
 
 ## Re-descubriendo la hibridacion: **Sudowrite**
 
-¿Quién no ha pensado alguna vez en escribir un libro? [**Sudowrite**](https://editor.sudowrite.com/) es una herramienta de inteligencia artificial que puede ayudarte a hacer el sueño de escribir un libro (documento, carta, o realmente cualquier tipo de texto) realidad.
+¿ Qué es **Sudowrite** ?
+>"**Sudowrite** es una herramienta de escritura impulsada por inteligencia artificial diseñada para ayudar a los escritores humanos en su proceso creativo. Con sus funciones de lluvia de ideas, herramientas de escritura que generan novelas cautivadoras en días y herramientas de edición, **Sudowrite**  tiene como objetivo ayudar a los escritores a superar bloqueos creativos y desarrollar historias convincentes." (Janine heinrich, Revisión de Sudowrite)
+>
+<!--es una herramienta de inteligencia artificial que puede ayudarte a hacer el sueño de escribir un libro (documento, carta, o realmente cualquier tipo de texto) realidad.-->
 
-Con **Sudowrite** podemos, partiendo de una idea, un genero, y un estilo solicitar a la herramienta generativa que nos desarrolle un texto, los personajes que saldrán en dicho texto con su biografía incluida, e incluso crear una estructura de capítulos o distribución del texto generado. Pero no solo eso, sino que, todos los elementos generados podemos redefinirlos, ajustarlo, o editarlos a nuestros gustos o conveniencia.
+¿Quién no ha pensado alguna vez en escribir un libro? 
+Con [**Sudowrite**](https://editor.sudowrite.com/) podemos, partiendo de una idea, un genero, y un estilo solicitar a la herramienta generativa que nos desarrolle un texto, los personajes que saldrán en dicho texto con su biografía incluida, e incluso crear una estructura de capítulos o distribución del texto generado. Pero no solo eso, sino que, todos los elementos generados podemos redefinirlos, ajustarlo, o editarlos a nuestros gustos o conveniencia, es decir, ayuda a hacer realidad la idea que muchos hemos tenido de escribir un libro y no nos hemos atrevido a dar el paso... hasta ahora?
 
 La herramienta **Sudowrite** es un ejemplo de hibridación según el concepto de Manovich porque integra múltiples tecnologías y medios en una sola herramienta de software para transformar y enriquecer la experiencia de escritura creativa.
 
